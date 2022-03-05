@@ -1,0 +1,12 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch public/assets/scss:public/assets/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
